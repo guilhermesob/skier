@@ -1,8 +1,4 @@
-'''
-Created on Mar 30, 2021
 
-@author: martinyanev
-'''
 
 import sys
 import cfg
